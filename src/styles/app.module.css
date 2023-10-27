@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+}
+
+.wrapper {
+    padding: 1%;
+    margin: 0 auto;
+    width: 65%;
+    gap: 50px;
+    display: flex;
+}
+.tableHead{
+
+}
